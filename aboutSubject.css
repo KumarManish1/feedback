@@ -1,0 +1,62 @@
+article
+{
+	text-align:centre;
+}	
+body
+{
+background-color:darkgray;	
+text-align:center;
+}
+header
+{
+	font-family:Lucida Handwriting;
+	color:navy;
+	background-color:MediumSeaGreen;
+	padding:2px;
+}
+h1
+{
+	
+}
+article
+{
+	font-family:Comic Sans MS;
+	font-size:22px;
+}
+footer.sub
+{
+	position:absolute;
+   	bottom:0;
+	color:white;
+	font-size:15px;
+	width:100%;
+	text-align:center;
+	background-color:MediumSeaGreen;
+	padding:10px; 
+}
+footer.book
+{
+	color:white;
+	font-size:15px;
+	width:100%;
+	text-align:center;
+	background-color:MediumSeaGreen;
+	padding:10px;
+}
+img
+{
+	height:4%;
+	width:2.5%;
+	vertical-align:middle;
+}
+a
+{
+	color:navy;
+	padding:5px;
+	text-decoration:none;
+	font-size:18px;
+}
+a:hover
+{
+	background-color:Gainsboro;
+}

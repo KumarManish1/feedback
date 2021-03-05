@@ -1,0 +1,126 @@
+body
+{
+	background-color:LightSteelBlue;
+	box-sizing: border-box;
+}
+section#heading
+{
+	border:2px solid LightSteelBlue;  
+	padding:3px%;
+	background:RosyBrown;
+}
+p.alignleft
+{
+	margin-left:2%;
+	font-family:cursive;
+	color:navy;
+	font-weight:bold;
+	font-size:22px;
+	float:left;
+}
+p.alignright
+{
+	margin-right:2%;
+	font-weight:bold;
+	font-family:cursive;
+	color:navy;
+	font-size:22px;
+	text-align:right;
+}
+section.mainSection
+{
+	background-color:Gainsboro;
+	float:left;
+	/*border:2px solid black;*/
+	margin-left:3%;
+	width:33%;
+	height:93%;
+}
+#userName,#feedback
+{
+	padding:10px;
+}
+
+form
+{
+	margin-left:5%;
+	margin-top:5%;
+}
+p#mytest
+{
+	padding:10px;
+}
+textarea
+{
+	
+	width:100%;
+	resize:none;
+	font-size:18px;
+}
+input[type=text]
+{
+	width:80%;
+  padding: 3% 3%;
+  margin: 2.5% 10%;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=radio]
+{
+	margin-left:10%;
+	margin-bottom:2.5%;
+}
+input#suggestions
+{
+	height:25%;
+}
+button
+{
+	margin-left:25%;
+	font-size:150%;
+}
+section.feedbacksection
+{
+	background-color:Gainsboro;
+	height:93%;
+	/*border:2px solid black;*/
+	margin-top:2%;
+	margin-left:40%;
+	width:58%;
+}
+section.parent
+{
+	height:80%;
+	
+}
+hr
+{
+	background-color:yellow;
+	padding:3px;
+	
+}
+footer
+{
+	color:white;
+	padding:1%;
+	background-color:RosyBrown;
+	text-align:center;
+}
+a
+{
+	padding:5px;
+	text-decoration:none;
+	font-size:18px;
+}
+a:hover
+{
+	background-color:Gainsboro;
+}
+img
+{
+	height:4%;
+	width:2.5%;
+	vertical-align:middle;
+}

@@ -1,0 +1,80 @@
+body {
+  background-color:Thistle ;
+}
+
+h1 {
+  color: navy;
+  text-align:center;
+}
+
+div.About
+{
+	
+	font-family:Comic Sans MS;
+	font-size:22px;
+	height:200px;
+	width:73%;
+	position:relative;
+	left:25%;
+
+}
+div.class
+{
+	position:relative;
+	left:25%;
+	font-family:Comic Sans MS;
+	font-size:22px;
+}
+
+div.heading{
+	background:MediumSeaGreen;
+	width:100%;
+	padding:1px;
+	text-align:right;
+}
+nav
+{
+	margin:auto;
+	text-align:right;
+	background:MediumSeaGreen;
+
+	padding:5px;
+}
+a
+{
+	color:black;
+	text-decoration:none;
+	font-size:20px;
+	padding:5px;
+}
+span
+{
+	hight:200px;
+	width:200px;
+}
+img#me
+{
+	margin-top:2%;
+	margin-left:2%;
+	width:15%;
+	height:23%;
+	position:absolute;
+	border:3px solid navy;
+	border-radius:50%;
+}
+img.footerImg
+{
+	height:4%;
+	width:2.5%;
+	vertical-align:middle;
+}
+footer
+{
+	text-align:center;
+	background-color:MediumSeaGreen;
+	padding:10px; 
+}
+a:hover
+{
+	background-color:Gainsboro; 
+}
